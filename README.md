@@ -2,7 +2,6 @@
 - 👀 I’m interested in Computer Sience
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on IUST
-- 📫 How to reach me on github
 
 <!---
 MHDOA/MHDOA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
